@@ -84,5 +84,4 @@ This project is part of my learning journey and showcases my skills in Excel-bas
 ## 📬 Contact
 
 📧 Email: snehajhait@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/sneha-jha-it)
-
+🔗 LinkedIn: https://www.linkedin.com/in/sneha-jha-it
